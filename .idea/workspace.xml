@@ -1,18 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="04fd4d08-7452-42b5-9d64-d9df7302212d" name="Changes" comment="" />
+    <list default="true" id="04fd4d08-7452-42b5-9d64-d9df7302212d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q1/CurrentAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/CurrentAccountMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q1/CurrentAccountMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q1/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/SavingsAccountMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q1/SavingsAccountMenu.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fr0xty"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/diploma-assigments/y2s1-oop-prac6.git",
+    "accountId": "507b9917-d9e6-4622-a061-5ddfdc905ba9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2lj13Q06Tesz3sWlwbAvf7AnexO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +50,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CurrentAccountMenu.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SavingsAccountMenu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/code projects/intellij/prac6",
+    "onboarding.tips.debug.path": "C:/code projects/intellij/prac6/src/Q1/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
